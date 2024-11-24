@@ -5,8 +5,6 @@ import './index.css';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter basename={"/byteflow-contact/"}></BrowserRouter>
     <App />
   </StrictMode>
 );
-
