@@ -5,8 +5,8 @@ export default defineConfig({
   
   plugins: [react()],
   optimizeDeps: {
-    exclude: ['lucide-react'],
-    base: '/byteflow-contact/'
+    exclude: ['lucide-react']
+    
   },
-
+base: '/byteflow-contact/'
 });
