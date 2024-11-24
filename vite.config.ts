@@ -8,5 +8,5 @@ export default defineConfig({
     exclude: ['lucide-react']
     
   },
-base: '/byteflow-contact/'
+base: 'byteflow-contact'
 });
